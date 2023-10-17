@@ -1,0 +1,15 @@
+{
+    "name": "ismaa/project_php",
+    "description": "*",
+    "autoload": {
+        "psr-4": {
+            "Ismaa\\ProjectPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Isma"
+        }
+    ],
+    "require": {}
+}
