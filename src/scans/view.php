@@ -79,7 +79,7 @@ function view_scans() {
 
             .image-container {
                 text-align: center;
-                padding-top: 100px;
+                padding-top: 30px;
             }
 
             .image-container img {
@@ -214,7 +214,7 @@ function view_scans2() {
 
             .image-container {
                 text-align: center;
-                padding-top: 100px;
+                padding-top: 30px;
             }
 
             .image-container img {
@@ -351,7 +351,7 @@ function view_scans3() {
 
             .image-container {
                 text-align: center;
-                padding-top: 100px;
+                padding-top: 30px;
             }
 
             .image-container img {
@@ -488,7 +488,7 @@ function view_scans4() {
 
             .image-container {
                 text-align: center;
-                padding-top: 100px;
+                padding-top: 30px;
             }
 
             .image-container img {
@@ -625,7 +625,7 @@ function view_scans5() {
 
             .image-container {
                 text-align: center;
-                padding-top: 100px;
+                padding-top: 30px;
             }
 
             .image-container img {
@@ -762,7 +762,7 @@ function view_scans6() {
 
             .image-container {
                 text-align: center;
-                padding-top: 100px;
+                padding-top: 30px;
             }
 
             .image-container img {
@@ -899,7 +899,7 @@ function view_scans7() {
 
             .image-container {
                 text-align: center;
-                padding-top: 100px;
+                padding-top: 30px;
             }
 
             .image-container img {
@@ -1036,7 +1036,7 @@ function view_scans8() {
 
             .image-container {
                 text-align: center;
-                padding-top: 100px;
+                padding-top: 30px;
             }
 
             .image-container img {
