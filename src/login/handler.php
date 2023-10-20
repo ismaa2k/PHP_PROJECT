@@ -8,3 +8,4 @@ function handler_login(){
     echo $view;
     echo $request;
 }
+?>

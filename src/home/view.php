@@ -143,6 +143,5 @@ body {
     margin: 0 20px;
 }
 </style>';
-
 }
 ?>

@@ -1,6 +1,7 @@
 <?php
 require_once('model.php');
 require_once('view.php');
+
 function handler_register() {
     if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         if (isset($_POST['action'])) {
@@ -24,5 +25,4 @@ function handler_register() {
         view_register_form();
     }
 }
-
 ?>

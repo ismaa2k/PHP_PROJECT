@@ -43,7 +43,6 @@ function route_request() {
             handler_register();
             break;
         default:
-            header('HTTP/1.0 404 Not Found');
             echo '404 NOT FOUND';
             break;
     }
